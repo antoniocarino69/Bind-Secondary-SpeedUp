@@ -15,3 +15,5 @@ sudo ./secondaryspeedup.sh
 Follow the script.
 
 that's all!
+
+Tested on OL9R4

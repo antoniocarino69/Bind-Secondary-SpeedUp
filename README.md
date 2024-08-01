@@ -10,6 +10,8 @@ Configure zone transfer on the master.
 On the bind machine load this bash script.
 
 chmod +x secondaryspeedup.sh
+
+
 sudo ./secondaryspeedup.sh
 
 Follow the script.

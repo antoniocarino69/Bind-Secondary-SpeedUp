@@ -1,4 +1,4 @@
-#BIND SECONDARY ZONE SPEED UP
+# BIND SECONDARY ZONE SPEED UP
 
 After the problem with CrowdStrike a few weeks ago, several of my customers asked me if it was possible for DNS to work alongside other non-Windows DNS so that if a similar event occurred again, DNS resolution would continue to work.
 Obviously the easiest thing for me to do was to implement a secondary copy of the desired zones in a BIND server.
